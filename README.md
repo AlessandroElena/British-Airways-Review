@@ -19,3 +19,6 @@ Improve weak points and target in strong points.
 Thanks to @mochen for his valuable guidance and support throughout the project. Their expertise and mentorship were instrumental in bringing this analysis to life.
 
 
+![Screen Shot 2024-07-22 at 5 00 12 pm](https://github.com/user-attachments/assets/c7467674-504f-44d5-8d30-8301fe763c98)
+
+
